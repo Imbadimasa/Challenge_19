@@ -111,9 +111,9 @@ Now it's time to put it all together and test the KryptoJobs2Go application with
 
 ![alt=""](Images/Lane_transaction_1.PNG)
 ![alt=""](Images/Lane_transaction_2.PNG)
-![alt=""](Images/Jo_transaction_1.PNG)
-![alt=""](Images/Jo_transaction_2.PNG)
-![alt=""](Images/Jo_transaction_3.PNG)
+![alt=""](Images/Jo_Transaction_1.PNG)
+![alt=""](Images/Jo_Transaction_2.PNG)
+![alt=""](Images/Jo_Transaction_3.PNG)
 ![alt=""](Images/history.PNG)
 
 
